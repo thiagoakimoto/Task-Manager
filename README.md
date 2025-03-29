@@ -36,12 +36,7 @@ CSS3
 
 📦 Como Executar o Projeto
 
-1️⃣ Clonar o Repositório
-------------------------------------
-
- git clone https://github.com/seu-usuario/gerenciador-tarefas.git
-
-2️⃣ Configurar o Banco de Dados
+1️⃣ Configurar o Banco de Dados
 --------------------------------------------
 
 Criar um banco de dados MySQL
@@ -50,7 +45,7 @@ Importar o arquivo database.sql (caso tenha um dump disponível)
 
 Configurar as credenciais do banco no arquivo conn.php
 
-3️⃣ Rodar o Projeto
+2️⃣ Rodar o Projeto
 ------------------------------------------
 Iniciar um servidor local (MYSQL, XAMPP, WAMP, Laragon, etc.)
 
