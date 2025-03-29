@@ -20,7 +20,6 @@ HTML5
 
 CSS3
 
-📷 Captura de Tela
 
 
 
