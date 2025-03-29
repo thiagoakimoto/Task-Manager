@@ -49,13 +49,14 @@ Criar um banco de dados MySQL
 
 Importar o arquivo database.sql (caso tenha um dump disponível)
 
-Configurar as credenciais do banco no arquivo config.php
+Configurar as credenciais do banco no arquivo conn.php
 
 3️⃣ Rodar o Projeto
 ------------------------------------------
-Iniciar um servidor local (XAMPP, WAMP, Laragon, etc.)
+Iniciar um servidor local (MYSQL, XAMPP, WAMP, Laragon, etc.)
 
 Acessar http://localhost/gerenciador-tarefas no navegador
+Caso não funcione(você deverá ter o apache instalado): abra o terminal [ctrl + j] digite "php -S localhost:8000"
 
 📄 Licença
 
