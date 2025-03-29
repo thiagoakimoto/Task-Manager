@@ -1,7 +1,6 @@
 
 
 📌 Sobre o Projeto
-
 --------------------------
 Este projeto é um Gerenciador de Tarefas desenvolvido com o objetivo de ajudar os usuários a organizar suas tarefas diárias de maneira eficiente. Ele permite que os usuários adicionem, editem e removam tarefas de forma intuitiva. Além disso, o sistema possibilita marcar tarefas como concluídas, proporcionando um melhor acompanhamento do progresso das atividades. A interface é dinâmica e interativa, utilizando AJAX para atualizações em tempo real sem necessidade de recarregar a página. A estrutura do banco de dados MySQL garante um armazenamento seguro e eficiente das tarefas cadastradas.
 
